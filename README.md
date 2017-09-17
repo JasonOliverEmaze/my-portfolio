@@ -2,6 +2,6 @@
 This is my professional portfolio. Powered by AWS & ReactJS
 
 ## Technologies Used
-
-Git & Github
+Brew (Chocoltey)
+Git & githun
 SSH

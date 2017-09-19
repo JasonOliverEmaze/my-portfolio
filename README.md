@@ -5,3 +5,7 @@ This is my professional portfolio. Powered by AWS & ReactJS
 Brew (Chocoltey)
 Git & githun
 SSH
+HTML
+CSS
+Font Awesome
+Google Fonts
